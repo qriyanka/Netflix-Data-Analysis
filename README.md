@@ -16,7 +16,7 @@ Analyzing Netflix content trends using Python, Pandas and SQL.
 - Pandas
 - SQLite
 - Matplotlib
-- Google Colab
+- Google Colab/Jupyter Notebook
 
 ## Dataset
 Netflix Titles dataset from Kaggle
